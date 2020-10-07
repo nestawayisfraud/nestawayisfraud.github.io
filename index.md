@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome Nestaway Frauds page
 
-You can use the [editor on GitHub](https://github.com/nestawayisfraud/nestaway.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here we will show you how the companies like nestaway are making fool of tenants and looting lot of money from them. We will also explore the fraudlent activites happening right from issuing of misleading agreement, that doesn't fit into renting laws, to how they are not returning a single pie of hefty deposit paid to them by customers. We will also let you know how they are opening new comapnies with new name but same fraud. We hae list of their directors theirs spouses and their relatives also. We are tracking all the companies listed by them in MCA portal so that they can not not make fool of anyone just by changing the names. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+You can visit their site [nestaway](https://www.nestaway.com/)
 
 ### Markdown
 
